@@ -2,9 +2,7 @@
 markdown:         redcarpet
 highlighter:      pygments
 
-# Permalinks
-permalink:        /:personalsite/
-relative_permalinks: true
+# Permalinks deleted
 
 # Setup
 title:            Hyde
