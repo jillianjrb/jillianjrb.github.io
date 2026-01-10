@@ -13,6 +13,12 @@ html {
 }
 
 
+/* All headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Google Sans Code", monospace;
+  font-weight: 500;
+}
+
 /*
  * Sidebar
  *
@@ -46,7 +52,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  font-family: "Google Sans Code", monospace;
   font-size: 3.25rem;
 }
 
