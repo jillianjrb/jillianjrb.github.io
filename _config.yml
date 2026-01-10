@@ -5,15 +5,15 @@ highlighter:      pygments
 # Permalinks deleted
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+title:            Jillian Brown
+tagline:          'NLP Engineer'
+description:      'NLP engineer and linguistic. From South Carolina, USA, currently based in Nancy, France.'
+url:              jillianjrb.github.io
+baseurl:          ""
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Jillian Brown'
+  url:            https://www.linkedin.com/in/jillian-brown-372585264/
 
 paginate:         5
 
