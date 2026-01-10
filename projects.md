@@ -8,7 +8,7 @@ title: Projects
 Wordification is a project from ScholasTech, LLC and the University of South Carolina to create personalized spelling instruction and practice for K-8 students.  In order to teach literacy, we prioritize skills of phonics awareness and offer dialect-enhanced instruction.  Wordification is a first of its kind in that its educational materials are catered and personalized to speakers of different dialects.
 
 Our site can be found <a href="https://wordification.scholastechnology.com/">here!</a>
-
+<br>
 
 ## DetectErreur
 
