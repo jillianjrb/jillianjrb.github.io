@@ -7,7 +7,7 @@ title:            Jillian Brown
 tagline:          'NLP Engineer'
 description:      'NLP engineer and linguist. From South Carolina, USA, currently based in Nancy, France.'
 url:              "https://jillianjrb.github.io"
-baseurl:          ""
+baseurl:          "https://jillianjrb.github.io/"
 
 author:
   name:           'Jillian Brown'
