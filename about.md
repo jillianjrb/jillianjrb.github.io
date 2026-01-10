@@ -1,30 +1,15 @@
 ---
 layout: page
-title: About
+title: Projects
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Wordification
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Wordification is a project from ScholasTech, LLC and the University of South Carolina to create personalized spelling instruction and practice for K-8 students.  In order to teach literacy, we prioritize skills of phonics awareness and offer dialect-enhanced instruction.  Wordification is a first of its kind in that its educational materials are catered and personalized to speakers of different dialects.
 
-There are currently two themes built on Poole:
+Our site can be found <a href="https://wordification.scholastechnology.com/">here!</a>
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## DetectErreur
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+DetectErreur is a digital tool designed to assist learners of French as a second language. By coding the rules of the French language into Python as well as utilizing machine learning methods, this tool detects writing errors, offers corrections, and provides pedagogically relevant feedback using Mistral NeMo 12B. Developing this tool allowed me to learn first-hand how to use Retrieval Augmented Generation (RAG) as these methods were applied to generate feedback that cited the rules of French directly.  DetectErreur was completed for the Master 1 Semester 1 project at the Université de Lorraine.
