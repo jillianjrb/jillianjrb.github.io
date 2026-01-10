@@ -1,5 +1,5 @@
 ---
-title: "call me jillian."
+title: "hello! call me jillian."
 layout: post
 show_date: false
 ---
@@ -11,5 +11,6 @@ I am a student of the Erasmus Mundus Language & Communication Technology of the 
 My primary interests these days focus on the application of AI in language education, machine learning, and the specialization of small language models.  Beyond NLP, I have also conducted a thesis on syntax, discourse analysis, and Singaporean English.
 
 To learn more about me and my work, feel free to explore this website! Thank you for visiting!
+
 
 
