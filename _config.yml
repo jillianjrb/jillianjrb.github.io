@@ -13,10 +13,14 @@ author:
   name:           'Jillian Brown'
   url:            "https://www.linkedin.com/in/jillian-brown-372585264/"
 
-paginate:         5
+paginate: 5
+paginate_path: "/page:num/"
 
+plugins:
+  - jekyll-paginate
+  
 # Custom vars
-version:          2.1.0
+version:          1.0
 
 github:
   repo:           "https://github.com/poole/hyde"
