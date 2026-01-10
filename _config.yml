@@ -1,19 +1,17 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
-# Permalinks deleted
+markdown:         kramdown
+highlighter:      rouge
 
 # Setup
 title:            Jillian Brown
 tagline:          'NLP Engineer'
-description:      'NLP engineer and linguistic. From South Carolina, USA, currently based in Nancy, France.'
-url:              jillianjrb.github.io
+description:      'NLP engineer and linguist. From South Carolina, USA, currently based in Nancy, France.'
+url:              "https://jillianjrb.github.io"
 baseurl:          ""
 
 author:
   name:           'Jillian Brown'
-  url:            https://www.linkedin.com/in/jillian-brown-372585264/
+  url:            "https://www.linkedin.com/in/jillian-brown-372585264/"
 
 paginate:         5
 
@@ -21,4 +19,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           "https://github.com/poole/hyde"
