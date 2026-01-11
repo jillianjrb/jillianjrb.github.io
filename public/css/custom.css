@@ -139,15 +139,23 @@ a.sidebar-nav-item:focus {
   }
 }
 
-
-/* Post background and text */
-.content {
-  background-color: #f5f3e4; /* cream */
-  color: #403f3c; /* dark text */
-  padding: 2rem;
+/* Override Hyde post text and background */
+.content, 
+.content .post {
+  background-color: #f5f3e4 !important; /* cream */
+  color: #403f3c !important; /* dark text */
 }
 
-.content p {
-  color: #403f3c;
+.content .post p,
+.content .post li {
+  color: #403f3c !important; /* paragraph and list text */
 }
 
+/* Links inside posts */
+.content .post a {
+  color: #2563eb !important; /* blue links */
+}
+
+.content .post a:hover {
+  color: #1d4ed8 !important;
+}
