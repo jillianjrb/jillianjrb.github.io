@@ -153,7 +153,7 @@ a.sidebar-nav-item:focus {
 
 /* Links inside posts */
 .content .post a {
-  color: #2563eb !important; /* blue links */
+  color: #171714 !important; /* no blue links */
 }
 
 .content .post a:hover {
