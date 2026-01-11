@@ -63,7 +63,7 @@ h1, h2, h3, h4, h5, h6 {
 .sidebar-nav-item {
   display: block;
   font-size: 1rem;
-  line-height: 1.75;
+  line-height: 1.25;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
@@ -166,7 +166,7 @@ a.sidebar-nav-item:focus {
 
 /* Site description styling */
 .sidebar-about .lead {
-    font-size: 1.2rem !important;   /* adjust size as desired */
+    font-size: 1rem !important;   /* adjust size as desired */
     color: #adb39d !important;      /* replace with any color you want */
     font-weight: 400;    /* optional: normal weight */
     line-height: 1.5;    /* optional: spacing for readability */
