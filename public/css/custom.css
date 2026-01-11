@@ -163,3 +163,11 @@ a.sidebar-nav-item:focus {
 .content .post a:focus {
     color: #000000 !important; /* hover black as well */
 }
+
+/* Site description styling */
+.sidebar-about .lead {
+    font-size: 1.2rem;   /* adjust size as desired */
+    color: #adb39d;      /* replace with any color you want */
+    font-weight: 400;    /* optional: normal weight */
+    line-height: 1.5;    /* optional: spacing for readability */
+}
