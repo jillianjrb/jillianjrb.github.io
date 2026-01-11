@@ -140,4 +140,14 @@ a.sidebar-nav-item:focus {
 }
 
 
+/* Post background and text */
+.content {
+  background-color: #f5f3e4; /* cream */
+  color: #403f3c; /* dark text */
+  padding: 2rem;
+}
+
+.content p {
+  color: #403f3c;
+}
 
