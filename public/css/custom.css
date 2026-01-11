@@ -151,11 +151,14 @@ a.sidebar-nav-item:focus {
   color: #403f3c !important; /* paragraph and list text */
 }
 
-/* Links inside posts */
-.content .post a {
-  color: #171714 !important; /* no blue links */
+/* All links inside posts */
+.content .post a,
+.content .post a:visited,
+.content .post a code {
+    color: #171714 !important; /* black links */
 }
 
-.content .post a:hover {
-  color: #1d4ed8 !important;
+.content .post a:hover,
+.content .post a:focus {
+    color: #000000 !important; /* hover black as well */
 }
