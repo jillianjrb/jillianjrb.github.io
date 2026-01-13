@@ -175,3 +175,10 @@ a.sidebar-nav-item:focus {
 .round {
   border-radius: 50%;
 }
+
+/* Resize images */
+.icon img {
+    width: 30%;
+    height: auto;
+    padding: 5px
+}
