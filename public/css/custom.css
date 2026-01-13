@@ -171,3 +171,7 @@ a.sidebar-nav-item:focus {
     font-weight: 400;    /* optional: normal weight */
     line-height: 1.5;    /* optional: spacing for readability */
 }
+
+.round {
+  border-radius: 50%;
+}
