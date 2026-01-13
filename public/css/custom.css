@@ -173,12 +173,12 @@ a.sidebar-nav-item:focus {
 }
 
 .round {
-  border-radius: 50%;
+  border-radius: 50% !important;
 }
 
 /* Resize images */
 .icon img {
-    width: 30%;
-    height: auto;
-    padding: 5px
+    width: 30px !important;
+    height: 30px !important;
+    padding: 5px !important;
 }
