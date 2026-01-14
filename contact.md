@@ -8,14 +8,15 @@ order: 4
 <form
   action="https://formspree.io/f/mjggkylk"
   method="POST"
+  class="contact-form"
 >
   <label>
     Your email:
-    <input type="email" name="email">
+    <input type="email" name="email" placeholder="email@example.com" required>
   </label>
   <label>
     Your message:
-    <textarea name="message"></textarea>
+    <textarea name="message" placeholder="How can I help you?" required></textarea>
   </label>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
