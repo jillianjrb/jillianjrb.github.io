@@ -172,13 +172,24 @@ a.sidebar-nav-item:focus {
     line-height: 1.5;    /* optional: spacing for readability */
 }
 
+.sidebar-nav-item {
+  margin: 0;
+  padding: 0.25rem 0;
+  line-height: 1.2;
+}
+
 .round {
   border-radius: 50% !important;
 }
 
 /* Resize images */
-.icon img {
-    width: 30px !important;
-    height: 30px !important;
-    padding: 5px !important;
+.icon {
+  width: 30px;
+  height: 30px;
+  padding: 5px;
+  display: inline-block;
+}
+.sidebar img {
+  max-width: 100%;
+  height: auto;
 }
