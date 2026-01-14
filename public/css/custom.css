@@ -184,8 +184,8 @@ a.sidebar-nav-item:focus {
 
 .round {
   border-radius: 50% !important;
-  width: 130px;
-  height: 130px;
+  width: 150px;
+  height: 150px;
   margin-left: auto;
   margin-right: auto;
 }
