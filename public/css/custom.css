@@ -58,12 +58,12 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Sidebar nav */
 .sidebar-nav {
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 .sidebar-nav-item {
   display: block;
   font-size: 1rem;
-  line-height: 1.25;
+  line-height: 1.1;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
@@ -150,6 +150,7 @@ a.sidebar-nav-item:focus {
 .content .post p,
 .content .post li {
   color: #403f3c !important; /* paragraph and list text */
+  font-size: 0.5rem;
 }
 
 /* All links inside posts */
@@ -166,7 +167,7 @@ a.sidebar-nav-item:focus {
 
 /* Site description styling */
 .sidebar-about .lead {
-    font-size: 1rem !important;   /* adjust size as desired */
+    font-size: 0.6rem !important;   /* adjust size as desired */
     color: #adb39d !important;      /* replace with any color you want */
     font-weight: 400;    /* optional: normal weight */
     line-height: 1.5;    /* optional: spacing for readability */
