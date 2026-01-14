@@ -167,15 +167,15 @@ a.sidebar-nav-item:focus {
 
 /* Site description styling */
 .sidebar-about .lead {
-    font-size: 0.6rem !important;   /* adjust size as desired */
+    font-size: 0.5rem !important;   /* adjust size as desired */
     color: #adb39d !important;      /* replace with any color you want */
     font-weight: 400;    /* optional: normal weight */
-    line-height: 1.5;    /* optional: spacing for readability */
+    line-height: 1;    /* optional: spacing for readability */
 }
 
 .sidebar-nav-item {
   margin: 0;
-  padding: 0.25rem 0;
+  padding: 0.1rem 0;
   line-height: 1.2;
 }
 
@@ -185,12 +185,12 @@ a.sidebar-nav-item:focus {
 
 /* Resize images */
 .sidebar img {
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
 }
 .icon {
-  width: 30px !important;
-  height: 30px !important;
+  width: 40px !important;
+  height: 40px !important;
   padding: 5px !important;
   display: inline-block;
 }
