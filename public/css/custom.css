@@ -183,13 +183,13 @@ a.sidebar-nav-item:focus {
 }
 
 /* Resize images */
-.icon {
-  width: 30px;
-  height: 30px;
-  padding: 5px;
-  display: inline-block;
-}
 .sidebar img {
   max-width: 100%;
   height: auto;
+}
+.icon {
+  width: 30px !important;
+  height: 30px !important;
+  padding: 5px !important;
+  display: inline-block;
 }
