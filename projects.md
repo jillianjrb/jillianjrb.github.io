@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: My Work
 order: 2
 ---
 
