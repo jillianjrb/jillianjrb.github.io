@@ -6,7 +6,7 @@ order: 2
 
 ## Voice Biomarker Validation @ LORIA
 
-Starting January 2026, I am working as a research assistant at the Université de Lorraine's LORIA laboratory ("Lorraine Research Laboratory in Computer Science and its Applications").  This project focuses on the analytical and clinical validation of vocal biomarkers to ensure that digital speech features accurately map to physiological behaviors rather than acoustic noise. Alongside my team, I am responsible for designing validation protocols and engineering Python pipelines that account for demographic cofactors (like age and gender) to improve diagnostic accuracy.
+Starting January 2026, I am working as a research assistant at the Université de Lorraine's LORIA laboratory.  This project focuses on the validation of vocal biomarkers to ensure that digital speech features accurately map to physiological behaviors rather than acoustic noise. Alongside my team, I will be crafting computational pipelines that account for demographic cofactors (like age and gender) to improve diagnostic accuracy.
 
 ## Wordification
 
