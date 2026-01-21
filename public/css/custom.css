@@ -1,5 +1,6 @@
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  /* font-family: "PT Sans", Helvetica, Arial, sans-serif; */
+  font-family: 'Nunito', sans-serif;
 }
 @media (min-width: 48em) {
   html {
