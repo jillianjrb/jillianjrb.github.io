@@ -19,4 +19,4 @@ Our site can be found <a href="https://wordification.scholastechnology.com/">her
 
 DetectErreur is a digital tool designed to assist learners of French as a second language. By coding the rules of the French language into Python as well as utilizing machine learning methods, this tool detects writing errors, offers corrections, and provides pedagogically relevant feedback using Mistral NeMo 12B. Developing this tool allowed me to learn first-hand how to use Retrieval Augmented Generation (RAG) as these methods were applied to generate feedback that cited the rules of French directly.  DetectErreur was completed for the Master 1 Semester 1 project at the Université de Lorraine.
 
-<img src="/images/detecterreur_attempt.png" alt="DetectErreur Screencap" style="width: 300px; border-radius: 8px;">
+<img src="/images/detecterreur_attempt.png" alt="DetectErreur Screencap" style="width: 1200px; border-radius: 8px;">
