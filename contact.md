@@ -4,29 +4,37 @@ title: Contact Me
 order: 4
 ---
 
-<!-- modify this form HTML and place wherever you want your form -->
-<!-- <form
-  action="https://formspree.io/f/mjggkylk"
-  method="POST"
-  class="contact-form"
->
-  <label>
-    Your email:
-    <input type="email" name="email" placeholder="email@example.com" required>
-  </label>
-  <label>
-    Your message:
-    <textarea name="message" placeholder="How can I help you?" required></textarea>
-  </label>
-  <button type="submit">Send</button>
-</form> -->
+<h2 class="page-title">Contact Me</h2>
+<p class="page-subtitle">Get in Touch</p>
 
-<form action="https://formspree.io/f/mjggkylk" method="POST" class="contact-form">
-  <label for="email">Your Email</label>
-  <input type="email" name="email" id="email" placeholder="email@example.com" required>
+<p class="contact-intro reveal">
+  I'm always happy to hear about collaborations, research opportunities, or just a
+  good conversation about language and technology.
+</p>
 
-  <label for="message">Your Message</label>
-  <textarea name="message" id="message" placeholder="How can I help you?" required></textarea>
+<form class="contact-form reveal"
+      action="https://formspree.io/f/myzkoqjr"
+      method="POST">
 
-  <button type="submit">Send Message</button>
+  <div class="form-group">
+    <label class="form-label" for="email">Your Email</label>
+    <input class="form-control"
+           type="email"
+           id="email"
+           name="email"
+           placeholder="you@example.com"
+           required />
+  </div>
+
+  <div class="form-group">
+    <label class="form-label" for="message">Your Message</label>
+    <textarea class="form-control"
+              id="message"
+              name="message"
+              placeholder="How can I help you?"
+              required></textarea>
+  </div>
+
+  <button type="submit" class="form-submit">Send Message</button>
+
 </form>

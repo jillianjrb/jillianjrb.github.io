@@ -1,26 +1,26 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
+# ── Dependencies ──────────────────────────────────────────────
+markdown:    kramdown
+highlighter: rouge
 
-# Setup
-title:            Jillian Brown
-tagline:          'MSc in NLP'
-description:      'NLP engineer and linguist. From South Carolina, USA, currently based in Nancy, France.'
-url:              "https://jillianjrb.github.io"
-baseurl:          ""
+# ── Site identity ─────────────────────────────────────────────
+title:       Jillian Brown
+tagline:     'MSc in NLP'
+description: 'NLP engineer and linguist. From South Carolina, USA, currently based in Nancy, France.'
+url:         "https://jillianjrb.github.io"
+baseurl:     ""
 
+# ── Author ────────────────────────────────────────────────────
 author:
-  name:           'Jillian Brown'
-  url:            "https://www.linkedin.com/in/jillian-brown-372585264/"
+  name: 'Jillian Brown'
+  url:  "https://www.linkedin.com/in/jillian-brown-372585264/"
 
-paginate: 5
+# ── Pagination ────────────────────────────────────────────────
+paginate:      5
 paginate_path: "/page:num/"
 
+# ── Plugins ───────────────────────────────────────────────────
 plugins:
   - jekyll-paginate
-  
-# Custom vars
-version:          1.0
 
-github:
-  repo:           "https://github.com/poole/hyde"
+# ── Custom vars ───────────────────────────────────────────────
+version: 2.0
