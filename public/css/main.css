@@ -404,6 +404,9 @@ a:hover {
   text-decoration: none;
 }
 .nav-guide-card:hover::after { transform: scaleX(1); }
+.icon-invert {
+  filter: invert(1);
+}
 
 img.nav-card-icon {
   width: 28px;
@@ -411,9 +414,6 @@ img.nav-card-icon {
   object-fit: contain;
   display: block;
   margin-bottom: 0.6rem;
-}
-.icon-invert {
-  filter: invert(1);
 }
 .nav-card-title {
   font-family: var(--font-display);
