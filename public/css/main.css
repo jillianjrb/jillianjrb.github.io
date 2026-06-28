@@ -213,9 +213,9 @@ body {
 }
 
 .page-content {
-  max-width: 720px;
+  max-width: 800px;
   margin: 0 auto;
-  padding: 4rem 3rem 5rem;
+  padding: 3rem 2.2rem 4rem;
 }
 
 /* ── Fade-in on load ── */
