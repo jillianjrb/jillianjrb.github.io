@@ -98,17 +98,25 @@ body {
 .left-nav .sidebar-icon-link {
   background: var(--cream);
   color: var(--forest);
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+
 .left-nav .sidebar-icon-link:hover {
   background: var(--forest);
   color: var(--cream);
+  transform: translateY(-2px);
 }
 
 /* ============================================================
    MAIN CONTENT AREA
    ============================================================ */
 .content-wrap {
-  margin-left: 220px;
+  margin-left: 300px;
 }
 
 .page-content {
