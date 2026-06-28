@@ -405,10 +405,12 @@ a:hover {
 }
 .nav-guide-card:hover::after { transform: scaleX(1); }
 
-.nav-card-icon {
-  font-size: 1.4rem;
-  margin-bottom: 0.6rem;
+img.nav-card-icon {
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
   display: block;
+  margin-bottom: 0.6rem;
 }
 .nav-card-title {
   font-family: var(--font-display);
