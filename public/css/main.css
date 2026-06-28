@@ -213,7 +213,7 @@ body {
 }
 
 .page-content {
-  max-width: 800px;
+  max-width: 840px;
   margin: 0 auto;
   padding: 1.5rem 2.2rem 4rem;
 }
@@ -299,7 +299,7 @@ a:hover {
    HOME — HERO
    ============================================================ */
 .hero {
-  padding: 1rem 0 2.5rem;
+  padding: 1rem 0 1.5rem;
 }
 .hero-eyebrow {
   font-size: 0.75rem;
