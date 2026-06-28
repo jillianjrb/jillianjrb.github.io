@@ -85,6 +85,10 @@ body {
 .left-nav .nav-guide-card.active img {
   filter: invert(1);
 }
+/* Explicitly keep house icon natural when Home is NOT active */
+.left-nav .nav-guide-card:not(.active) img {
+  filter: invert(0);
+}
 
 .left-nav-social {
   margin-top: auto;
