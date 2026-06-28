@@ -372,7 +372,7 @@ a:hover {
 }
 .nav-guide-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  grid-template-columns: 1fr;
   gap: 1rem;
 }
 .nav-guide-card {
@@ -428,6 +428,33 @@ img.nav-card-icon {
   color: var(--ink-muted);
   line-height: 1.5;
 }
+
+/* ── Home two-column layout ── */
+.home-layout {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 3rem;
+  min-height: calc(100vh - 8rem);
+}
+
+.home-layout .hero {
+  flex: 1;
+  padding: 0;
+}
+
+.home-layout .nav-guide {
+  width: 220px;
+  flex-shrink: 0;
+  padding-top: 0.5rem;
+}
+
+.home-layout .nav-guide-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
 
 /* ============================================================
    PROJECTS — CARD GRID
@@ -702,6 +729,13 @@ textarea.form-control {
   .page-content { padding: 2.5rem 1.5rem 4rem; }
   .projects-grid { grid-template-columns: 1fr; }
   .nav-guide-grid { grid-template-columns: 1fr 1fr; }
+
+  .home-layout {
+  flex-direction: column;
+    }
+.home-layout .nav-guide {
+  width: 100%;
+    }
 }
 
 @media (max-width: 480px) {
