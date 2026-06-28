@@ -7,10 +7,6 @@ order: 4
 <h2 class="page-title">Contact Me</h2>
 <p class="page-subtitle">Get in Touch</p>
 
-<p class="contact-intro reveal">
-  I'm always happy to hear about collaborations, research opportunities, or just a
-  good conversation about language and technology.
-</p>
 
 <form class="contact-form reveal"
       action="https://formspree.io/f/myzkoqjr"
