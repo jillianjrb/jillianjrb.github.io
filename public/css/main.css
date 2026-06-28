@@ -440,7 +440,7 @@ img.nav-card-icon {
 .nav-card-desc {
   font-size: 0.78rem;
   color: var(--ink-muted);
-  line-height: 1;
+  line-height: 1.5;
 }
 
 /* ── Home two-column layout ── */
