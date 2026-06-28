@@ -378,6 +378,33 @@ img.nav-card-icon {
   line-height: 1.5;
 }
 
+/* ── Hide blurb by default, reveal on hover ── */
+.left-nav .nav-card-desc {
+  display: block;
+  font-size: 0.75rem;
+  color: var(--ink-muted);
+  line-height: 1.4;
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  transition: max-height 0.3s var(--ease-out), opacity 0.3s var(--ease-out);
+  margin-top: 0;
+}
+
+.left-nav .nav-guide-card:hover .nav-card-desc {
+  max-height: 4rem;
+  opacity: 1;
+  margin-top: 0.3rem;
+}
+
+/* ── Active card blurb stays visible ── */
+.left-nav .nav-guide-card.active .nav-card-desc {
+  max-height: 4rem;
+  opacity: 1;
+  margin-top: 0.3rem;
+  color: var(--cream);
+}
+
 /* ── Home two-column layout ── */
 .home-layout {
   display: flex;
