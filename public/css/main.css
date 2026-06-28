@@ -57,7 +57,7 @@ body {
   position: fixed;
   top: 0;
   left: 0;
-  width: 220px;
+  width: 300px;
   height: 100vh;
   background: var(--white);
   border-right: 1px solid var(--border);
