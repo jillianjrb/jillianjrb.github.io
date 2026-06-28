@@ -377,7 +377,7 @@ img.nav-card-icon {
   margin-bottom: 0.3rem;
 }
 .nav-card-desc {
-  font-size: 1.5rem;
+  font-size: 1rem;
   color: var(--ink-muted);
   line-height: 1.75;
 }
@@ -385,7 +385,7 @@ img.nav-card-icon {
 /* ── Hide blurb by default, reveal on hover ── */
 .left-nav .nav-card-desc {
   display: block;
-  font-size: 0.75rem;
+  font-size: 1rem;
   color: var(--ink-muted);
   line-height: 1.4;
   max-height: 0;
