@@ -385,7 +385,7 @@ img.nav-card-icon {
 /* ── Hide blurb by default, reveal on hover ── */
 .left-nav .nav-card-desc {
   display: block;
-  font-size: 1rem;
+  font-size: 3rem;
   color: var(--ink-muted);
   line-height: 1.4;
   max-height: 0;
