@@ -609,6 +609,7 @@ img.nav-card-icon {
   display: flex;
   flex-direction: column;
   gap: 1.25rem;
+  width: 70%;
 }
 .form-group {
   display: flex;

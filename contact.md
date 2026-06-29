@@ -25,7 +25,7 @@ order: 4
     <textarea class="form-control"
               id="message"
               name="message"
-              placeholder="How can I help you?"
+              placeholder="Let's get in touch!"
               required></textarea>
   </div>
 
