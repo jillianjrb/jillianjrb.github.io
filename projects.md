@@ -24,9 +24,9 @@ order: 2
     </div>
     <div class="project-card-body">
       <p class="project-card-desc">
-       Rigorously evaluated fundamental frequency as a depression biomarker using 
-       the V3 framework, revealing extraction and demographic confounding variables 
-       that limit its standalone clinical robustness.
+       Rigorously evaluated fundamental frequency as a depression biomarker, revealing 
+       samplie-level and demographic confounding variables that limit its standalone 
+       clinical robustness.
       </p>
     </div>
   </a>
@@ -43,7 +43,7 @@ order: 2
     </div>
     <div class="project-card-body">
       <p class="project-card-desc">
-        Personalized spelling instruction for K–8 students with dialect-aware
+        Pedagogically and linguistically driven spelling instruction for K–8 students with dialect-aware
         phonics awareness — made possible with personalized voiced synthesis.
       </p>
     </div>
