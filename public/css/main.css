@@ -611,6 +611,11 @@ img.nav-card-icon {
 }
 .contact-wrap .contact-form{
   max-width: 100%;
+  width: 100%;
+}
+.contact-wrap .reveal{
+  opacity: 1;
+  transform: none;
 }
 
 .contact-form {

@@ -84,17 +84,39 @@ order: 2
   <p class="page-subtitle">LORIA, Université de Lorraine &nbsp;·&nbsp; January 2026 – Present</p>
   <hr class="divider" />
 
+  <blockquote>
+    Despite clinical interest in diagnosing depression on the basis of vocal behavior,
+    little research has been done to evaluate the robustness of these features as biomarkers. 
+    Previous work has found links between depressive behavior and reductions
+    in mean F0 and range of the patient’s voice, though a rigorous evaluation has not
+    been performed on how these trends have emerged nor their precision in identifying
+    depressive traits. The present study investigated the robustness of F0 (mean
+    and standard deviation) as a potential vocal biomarker of depressive traits through
+    the application of the V3 framework on the Androids Corpus. This project is conducted
+    in three parts: first, during verification, F0 extraction is evaluated by means of a 
+    linear mixed model to ensure no part of the feature computation pipeline adds 
+    variation to F0. Second, analytical validation was conducted through use of a linear 
+    mixed model to assess whether biological or procedural characteristics confound F0’s 
+    diagnostic capacity. Lastly, at a clinical validation stage, a classification model 
+    investigated whether F0 holds any predictive potential in guiding the diagnosis of 
+    depressive traits. Ultimately, the findings suggested that while F0 carries an 
+    exploratory predictive signal for depression detection, its value is significantly
+    affected by the means of extraction (particularly the use of toolbox). Additionally, 
+    different groups categorized according to sex and age exhibited different trends 
+    in F0 mean while groups formed according to speech task type exhibited different 
+    trends in F0 variability. Therefore, F0 lacks the robustness required for reliable
+    use as a standalone vocal biomarker in real-world conditions.
+  </blockquote>
+
   <p>
-    Starting January 2026, I am working as a research assistant at the
-    Université de Lorraine's LORIA laboratory. This project focuses on the
-    <strong>validation of vocal biomarkers</strong> — ensuring that digital speech
-    features accurately map to physiological behaviors rather than acoustic noise.
+    From January to June 2026, I participated in a project that interrogated and evaluated how research has approached vocal biomarkers.  Through this project, we performed a validation pipeline on fundamental frequency (F0) as a vocal biomarker of depression using <DiME’s proposed V3 framework>.  While much research has correlated measures of speech behavior with depression diagnoses, there has been little consideration as to if these metrics are identifying symptoms of depression or if they are recorded confounding variables related to the collection of data or underlying physical conditions of these patients.  This project was produced to evaluate and implore the application of validation frameworks in current and future biomarker research.
   </p>
   <p>
-    Alongside my team, I am crafting computational pipelines that account for
-    <strong>demographic cofactors</strong> such as age and gender to improve
-    diagnostic accuracy. The goal is to make voice-based health diagnostics more
-    robust, equitable, and clinically meaningful.
+    I worked alongside my team (<Mae>, <Monica>, <Maria>) and under our supervisors (<Vincent>, <Elio>) to evaluate the robustness of F0 as a biomarker through the application of linear mixed-effect models (LMMs) on speech samples from the <Androids Corpus> according to their available metadata.  The application of LMMs was performed to isolate each available variable and control for confounding effects.  Additionally, we fine-tuned a logistic regressor to determine if depression diagnoses could be predicted on the basis of extracted F0 mean and variability data when controlled for select groups.
+  </p>
+  <p>
+    We are pursuing the opportunity to publish our findings along with those of our supervisors’ related projects in the near future, so
+    unfortunately our full report cannot be shared at this time.
   </p>
 
   <h3>Key areas</h3>
