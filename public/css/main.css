@@ -549,6 +549,17 @@ img.nav-card-icon {
   margin: 1.75rem 0;
 }
 
+.project-detail blockquote {
+  font-size: 0.875rem;
+  line-height: 1.8;
+  color: var(--ink-muted);
+  margin: 1.5rem 0;
+  padding: 1rem 2rem;
+  border-left: 3px solid var(--sage-light);
+  background: var(--cream);
+  border-radius: 0 5px 5px 0;
+}
+
 /* ============================================================
    RESUME
    ============================================================ */
