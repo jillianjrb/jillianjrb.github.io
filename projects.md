@@ -109,22 +109,22 @@ order: 2
   </blockquote>
 
   <p>
-    From January to June 2026, I participated in a project that interrogated and evaluated how research has approached vocal biomarkers.  Through this project, we performed a validation pipeline on fundamental frequency (F0) as a vocal biomarker of depression using <a href="https://www.nature.com/articles/s41746-020-0260-4">DiME’s proposed V3 framework</a>.  While much research has correlated measures of speech behavior with depression diagnoses, there has been little consideration as to if these metrics are identifying symptoms of depression or if they are recorded confounding variables related to the collection of data or underlying physical conditions of these patients.  This project was produced to evaluate and implore the application of validation frameworks in current and future biomarker research.
+    From January to June 2026, I participated in a project that interrogated and evaluated how research has approached vocal biomarkers.  Through this project, we performed a validation pipeline on <strong>fundamental frequency (F0) as a vocal biomarker of depression</strong> using <a target="_blank" href="https://www.nature.com/articles/s41746-020-0260-4">DiME’s proposed V3 framework</a>.  While much research has correlated measures of speech behavior with depression diagnoses, there has been little consideration as to if these metrics are identifying symptoms of depression or if they are recorded confounding variables related to the collection of data or underlying physical conditions of these patients.  This project was produced to evaluate and implore the application of validation frameworks in current and future biomarker research.
   </p>
   <p>
-    I worked alongside my team (<a href="https://www.linkedin.com/in/ma%C3%A9-dugoua-jacques-9594102b2/">Maé Dugoua-Jacques</a>, <a href="https://www.linkedin.com/in/monicapasqualini/">Monica Pasqualini</a>, <a href="https://www.linkedin.com/in/mp0pa/en/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BNPzE4B4uQku6ui104F8TKQ%3D%3D">Maria Popa</a>) and under our supervisors (<a href="https://www.linkedin.com/in/vincent-p-martin-139841115/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BNPzE4B4uQku6ui104F8TKQ%3D%3D">Vincent P. Martin</a>, <a href="https://www.linkedin.com/in/elio-alex-stasica-b320b1250/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BNPzE4B4uQku6ui104F8TKQ%3D%3D">Elio Stasica</a>) to evaluate the robustness of F0 as a biomarker through the application of linear mixed-effect models (LMMs) on speech samples from the <a href="https://www.isca-archive.org/interspeech_2023/tao23_interspeech.pdf">Androids Corpus</a> according to their available metadata.  The application of LMMs was performed to isolate each available variable and control for confounding effects.  Additionally, we fine-tuned a logistic regressor to determine if depression diagnoses could be predicted on the basis of extracted F0 mean and variability data when controlled for select groups.
+    I worked alongside my team (<a target="_blank" href="https://www.linkedin.com/in/ma%C3%A9-dugoua-jacques-9594102b2/">Maé Dugoua-Jacques</a>, <a target="_blank" href="https://www.linkedin.com/in/monicapasqualini/">Monica Pasqualini</a>, <a target="_blank" href="https://www.linkedin.com/in/mp0pa/en/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BNPzE4B4uQku6ui104F8TKQ%3D%3D">Maria Popa</a>) and under our supervisors (<a target="_blank" href="https://www.linkedin.com/in/vincent-p-martin-139841115/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BNPzE4B4uQku6ui104F8TKQ%3D%3D">Vincent P. Martin</a>, <a target="_blank" href="https://www.linkedin.com/in/elio-alex-stasica-b320b1250/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BNPzE4B4uQku6ui104F8TKQ%3D%3D">Elio Stasica</a>) to evaluate the robustness of F0 as a biomarker through the application of <strong>linear mixed-effect models (LMMs)</strong> on speech samples from the <a target="_blank" href="https://www.isca-archive.org/interspeech_2023/tao23_interspeech.pdf">Androids Corpus</a> according to their available metadata.  The application of LMMs was performed to isolate each available variable and control for confounding effects.  Additionally, we <strong>fine-tuned a logistic regressor</strong> to determine if depression diagnoses could be predicted on the basis of extracted F0 mean and variability data when controlled for select groups.
   </p>
   <p>
     We are pursuing the opportunity to publish our findings along with those of our supervisors’ related projects in the near future, so
     unfortunately our full report cannot be shared at this time.
   </p>
-</div>
 
   <h3>Key areas</h3>
   <p>
     <em>Signal processing for speech feature extraction &nbsp;·&nbsp; Demographic
     confound analysis &nbsp;·&nbsp; Diagnostic pipeline development &nbsp;·&nbsp; Clinical biomarker validation &nbsp;·&nbsp; NLP in Clinical applications &nbsp;·&nbsp; Mixed-effects statistical modeling &nbsp;·&nbsp; Logistic regression modeling &nbsp;·&nbsp;</em>
   </p>
+</div>
 
 <div id="project-wordification" class="project-detail" style="display:none;">
   <a href="#" class="project-detail-back" onclick="closeProject(); return false;">
@@ -146,10 +146,10 @@ order: 2
     step toward more equitable literacy education.
   </p>
   <p>
-    Through this project, I have had the privilege of speaking with several educators and administrators about the state of reading and writing education in the classrooms as well as test out the current softwares made available to them.  In my research, I have observed that current applications of voice processing in computer-assisted language learning in the United States are merely designed to implement a standardized American English pronunciation--with no awareness of regional accents or lenience to natural speech behavior such as pauses and repetitions of words.  What matters most to the education of students is simple: building the skills for a lifetime of reading and writing.  
+    Through this project, I have had the privilege of speaking with several educators and administrators about the state of reading and writing education in the classrooms as well as test out the current softwares made available to them.  In my research, I have observed that current applications of voice processing in <strong>computer-assisted language learning</strong> in the United States are designed to enforce a standardized American English pronunciation--with no awareness of regional accents or lenience to natural speech behavior such as pauses and repetitions of words.  What matters most to the education of students is simple: building the skills for a lifetime of reading and writing.  
   </p>
   <p>
-    The most exciting part of my work at Wordification thus far is considering applying synthetic voice technology to allow teachers to craft more personalized and linguistically aware online lessons for their students.  Many common spelling errors in young students arise from the incorrect application of spelling conventions on different productions of speech (<em>How can students learn to spell by sounding out "pin" and "pen" or "sit" and "seat" if the speaker's native accent pronounces these the same way?</em>).  Dialectally aware education will allow educators to customize the students' activities with local accents and voices through the voice cloning of a diverse group of voice actors to implement lessons that target these specific common phonic errors and personalize students' lessons with respect to their most frequent errors.
+    The most exciting part of my work at Wordification thus far is considering applying <strong>synthetic voice technology</strong> to allow teachers to craft more personalized and linguistically aware online lessons for their students.  Many common spelling errors in young students arise from the incorrect application of spelling conventions on different productions of speech (<em>How can students learn to spell by sounding out "pin" and "pen" or "sit" and "seat" if the speaker's native accent pronounces these the same way?</em>).  Dialectally aware education will allow educators to customize the students' activities with local accents and voices through the <strong>voice cloning<</strong>> of a diverse group of voice actors to implement lessons that target these specific common phonic errors and personalize students' lessons with respect to their most frequent errors.
   </p>
 
   <a href="https://wordification.scholastechnology.com/"
@@ -160,6 +160,11 @@ order: 2
       <path d="M5 12h14M12 5l7 7-7 7"/>
     </svg>
   </a>
+
+  <p>
+      <em>Synthetic voice / TTS for education &nbsp;·&nbsp; Dialect-aware speech processing &nbsp;·&nbsp; Synthetic voice / TTS for education &nbsp;·&nbsp; Personalized learning systems &nbsp;·&nbsp; Web design &nbsp;·&nbsp; Game development</em>
+    </p>
+
 </div>
 
 <div id="project-detecterreur" class="project-detail" style="display:none;">
