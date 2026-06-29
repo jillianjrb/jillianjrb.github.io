@@ -605,6 +605,14 @@ img.nav-card-icon {
   margin-bottom: 2.5rem;
 }
 
+.contact-wrap {
+  width: 100%;
+  max-width: 100%;
+}
+.contact-wrap .contact-form{
+  max-width: 100%
+}
+
 .contact-form {
   display: flex;
   flex-direction: column;

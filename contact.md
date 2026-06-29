@@ -6,6 +6,7 @@ order: 4
 
 <h2 class="page-title">Contact Me</h2>
 
+<div class="contact-wrap">
 <form class="contact-form reveal"
       action="https://formspree.io/f/myzkoqjr"
       method="POST">
@@ -32,3 +33,4 @@ order: 4
   <button type="submit" class="form-submit">Send Message</button>
 
 </form>
+</div>
