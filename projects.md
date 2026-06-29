@@ -85,7 +85,7 @@ order: 2
   <hr class="divider" />
 
   <blockquote>
-    <strong>ABSTRACT:</strong>Despite clinical interest in diagnosing depression on the basis of vocal behavior,
+    <strong>ABSTRACT:</strong> Despite clinical interest in diagnosing depression on the basis of vocal behavior,
     little research has been done to evaluate the robustness of these features as biomarkers. 
     Previous work has found links between depressive behavior and reductions
     in mean F0 and range of the patient’s voice, though a rigorous evaluation has not
@@ -118,6 +118,7 @@ order: 2
     We are pursuing the opportunity to publish our findings along with those of our supervisors’ related projects in the near future, so
     unfortunately our full report cannot be shared at this time.
   </p>
+</div>
 
   <h3>Key areas</h3>
   <p>
@@ -140,20 +141,25 @@ order: 2
     <strong>University of South Carolina</strong> to create personalized spelling
     instruction and practice for K–8 students. To teach literacy effectively, the
     platform prioritizes phonics awareness and offers <strong>dialect-enhanced
-    instruction</strong>.
-  </p>
-  <p>
-    Wordification is first of its kind in that its educational materials are
+    instruction</strong>. Wordification is first of its kind in that its educational materials are
     catered and personalized to speakers of different dialects — an important
     step toward more equitable literacy education.
   </p>
-
-  <h3>Links</h3>
   <p>
-    <a href="https://wordification.scholastechnology.com/" target="_blank" rel="noopener">
-      Visit the Wordification site →
-    </a>
+    Through this project, I have had the privilege of speaking with several educators and administrators about the state of reading and writing education in the classrooms as well as test out the current softwares made available to them.  In my research, I have observed that current applications of voice processing in computer-assisted language learning in the United States are merely designed to implement a standardized American English pronunciation--with no awareness of regional accents or lenience to natural speech behavior such as pauses and repetitions of words.  What matters most to the education of students is simple: building the skills for a lifetime of reading and writing.  
   </p>
+  <p>
+    The most exciting part of my work at Wordification thus far is considering applying synthetic voice technology to allow teachers to craft more personalized and linguistically aware online lessons for their students.  Many common spelling errors in young students arise from the incorrect application of spelling conventions on different productions of speech (<em>How can students learn to spell by sounding out "pin" and "pen" or "sit" and "seat" if the speaker's native accent pronounces these the same way?</em>).  Dialectally aware education will allow educators to customize the students' activities with local accents and voices through the voice cloning of a diverse group of voice actors to implement lessons that target these specific common phonic errors and personalize students' lessons with respect to their most frequent errors.
+  </p>
+
+  <a href="https://wordification.scholastechnology.com/"
+    target="_blank" rel="noopener"
+    class="hero-cta">
+    Visit the Wordification site
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M5 12h14M12 5l7 7-7 7"/>
+    </svg>
+  </a>
 </div>
 
 <div id="project-detecterreur" class="project-detail" style="display:none;">
