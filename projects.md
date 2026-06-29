@@ -149,7 +149,7 @@ order: 2
     Through this project, I have had the privilege of speaking with several educators and administrators about the state of reading and writing education in the classrooms as well as test out the current softwares made available to them.  In my research, I have observed that current applications of voice processing in <strong>computer-assisted language learning</strong> in the United States are designed to enforce a standardized American English pronunciation--with no awareness of regional accents or lenience to natural speech behavior such as pauses and repetitions of words.  What matters most to the education of students is simple: building the skills for a lifetime of reading and writing.  
   </p>
   <p>
-    The most exciting part of my work at Wordification thus far is considering applying <strong>synthetic voice technology</strong> to allow teachers to craft more personalized and linguistically aware online lessons for their students.  Many common spelling errors in young students arise from the incorrect application of spelling conventions on different productions of speech (<em>How can students learn to spell by sounding out "pin" and "pen" or "sit" and "seat" if the speaker's native accent pronounces these the same way?</em>).  Dialectally aware education will allow educators to customize the students' activities with local accents and voices through the <strong>voice cloning<</strong>> of a diverse group of voice actors to implement lessons that target these specific common phonic errors and personalize students' lessons with respect to their most frequent errors.
+    The most exciting part of my work at Wordification thus far is considering applying <strong>synthetic voice technology</strong> to allow teachers to craft more personalized and linguistically aware online lessons for their students.  Many common spelling errors in young students arise from the incorrect application of spelling conventions on different productions of speech (<em>How can students learn to spell by sounding out "pin" and "pen" or "sit" and "seat" if the speaker's native accent pronounces these the same way?</em>).  Dialectally aware education will allow educators to customize the students' activities with local accents and voices through the <strong>voice cloning<</strong> of a diverse group of voice actors to implement lessons that target these specific common phonic errors and personalize students' lessons with respect to their most frequent errors.
   </p>
 
   <a href="https://wordification.scholastechnology.com/"
@@ -161,8 +161,9 @@ order: 2
     </svg>
   </a>
 
+  <h3>Key areas</h3>
   <p>
-      <em>Synthetic voice / TTS for education &nbsp;·&nbsp; Dialect-aware speech processing &nbsp;·&nbsp; Synthetic voice / TTS for education &nbsp;·&nbsp; Personalized learning systems &nbsp;·&nbsp; Web design &nbsp;·&nbsp; Game development</em>
+      <em>Synthetic voice / TTS for education &nbsp;·&nbsp; Voice cloning &nbsp;·&nbsp; Dialect-aware speech processing &nbsp;·&nbsp; Synthetic voice / TTS for education &nbsp;·&nbsp; Personalized learning systems &nbsp;·&nbsp; Web design &nbsp;·&nbsp; Game development</em>
     </p>
 
 </div>
