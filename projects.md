@@ -81,7 +81,7 @@ order: 2
   </a>
 
   <h2 class="page-title">Voice Biomarker Validation</h2>
-  <p class="page-subtitle">LORIA, Université de Lorraine &nbsp;·&nbsp; January 2026 – Present</p>
+  <p class="page-subtitle">LORIA, University of Lorraine &nbsp;·&nbsp; January 2026 – June 2026</p>
   <hr class="divider" />
 
   <blockquote>
@@ -109,10 +109,10 @@ order: 2
   </blockquote>
 
   <p>
-    From January to June 2026, I participated in a project that interrogated and evaluated how research has approached vocal biomarkers.  Through this project, we performed a validation pipeline on fundamental frequency (F0) as a vocal biomarker of depression using <DiME’s proposed V3 framework>.  While much research has correlated measures of speech behavior with depression diagnoses, there has been little consideration as to if these metrics are identifying symptoms of depression or if they are recorded confounding variables related to the collection of data or underlying physical conditions of these patients.  This project was produced to evaluate and implore the application of validation frameworks in current and future biomarker research.
+    From January to June 2026, I participated in a project that interrogated and evaluated how research has approached vocal biomarkers.  Through this project, we performed a validation pipeline on fundamental frequency (F0) as a vocal biomarker of depression using <a href="https://www.nature.com/articles/s41746-020-0260-4">DiME’s proposed V3 framework</a>.  While much research has correlated measures of speech behavior with depression diagnoses, there has been little consideration as to if these metrics are identifying symptoms of depression or if they are recorded confounding variables related to the collection of data or underlying physical conditions of these patients.  This project was produced to evaluate and implore the application of validation frameworks in current and future biomarker research.
   </p>
   <p>
-    I worked alongside my team (<Mae>, <Monica>, <Maria>) and under our supervisors (<Vincent>, <Elio>) to evaluate the robustness of F0 as a biomarker through the application of linear mixed-effect models (LMMs) on speech samples from the <Androids Corpus> according to their available metadata.  The application of LMMs was performed to isolate each available variable and control for confounding effects.  Additionally, we fine-tuned a logistic regressor to determine if depression diagnoses could be predicted on the basis of extracted F0 mean and variability data when controlled for select groups.
+    I worked alongside my team (<a href="https://www.linkedin.com/in/ma%C3%A9-dugoua-jacques-9594102b2/">Maé Dugoua-Jacques</a>, <a href="https://www.linkedin.com/in/monicapasqualini/">Monica Pasqualini</a>, <a href="https://www.linkedin.com/in/mp0pa/en/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BNPzE4B4uQku6ui104F8TKQ%3D%3D">Maria Popa</a>) and under our supervisors (<a href="https://www.linkedin.com/in/vincent-p-martin-139841115/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BNPzE4B4uQku6ui104F8TKQ%3D%3D">Vincent P. Martin</a>, <a href= https://www.linkedin.com/in/elio-alex-stasica-b320b1250/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BNPzE4B4uQku6ui104F8TKQ%3D%3D>Elio Stasica</a>) to evaluate the robustness of F0 as a biomarker through the application of linear mixed-effect models (LMMs) on speech samples from the <a href="https://www.isca-archive.org/interspeech_2023/tao23_interspeech.pdf">Androids Corpus</a> according to their available metadata.  The application of LMMs was performed to isolate each available variable and control for confounding effects.  Additionally, we fine-tuned a logistic regressor to determine if depression diagnoses could be predicted on the basis of extracted F0 mean and variability data when controlled for select groups.
   </p>
   <p>
     We are pursuing the opportunity to publish our findings along with those of our supervisors’ related projects in the near future, so
@@ -124,7 +124,6 @@ order: 2
     Signal processing for speech feature extraction &nbsp;·&nbsp; Demographic
     confound analysis &nbsp;·&nbsp; Diagnostic pipeline development
   </p>
-</div>
 
 <div id="project-wordification" class="project-detail" style="display:none;">
   <a href="#" class="project-detail-back" onclick="closeProject(); return false;">
