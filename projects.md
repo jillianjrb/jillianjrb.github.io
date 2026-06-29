@@ -5,11 +5,9 @@ order: 2
 ---
 
 <h2 class="page-title">My Work</h2>
-<p class="page-subtitle">Research &amp; Projects</p>
 
 <p class="projects-intro reveal">
-  A selection of current, past, and ongoing projects in NLP, computational
-  linguistics, and language education technology. Click any card to read more.
+  My past and present projects. Click any card to read more.
 </p>
 
 <div class="projects-grid">
@@ -17,18 +15,18 @@ order: 2
   <!-- ── Card 1: LORIA ── -->
   <a href="#project-loria" class="project-card reveal" id="card-loria" onclick="openProject('loria'); return false;">
     <div class="project-card-header">
-      <span class="project-card-tag">Research · Active</span>
+      <span class="project-card-tag">Research · Completed</span>
       <div class="project-card-title">Voice Biomarker Validation</div>
-      <div class="project-card-org">LORIA, Université de Lorraine</div>
+      <div class="project-card-org">LORIA, University of Lorraine</div>
       <svg class="project-card-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
         <path d="M7 17L17 7M17 7H7M17 7v10"/>
       </svg>
     </div>
     <div class="project-card-body">
       <p class="project-card-desc">
-        Validating vocal biomarkers by ensuring digital speech features map to
-        physiological behaviors, not acoustic noise — with pipelines that account
-        for demographic cofactors.
+       Rigorously evaluated fundamental frequency as a depression biomarker using 
+       the V3 framework, revealing extraction and demographic confounding variables 
+       that limit its standalone clinical robustness.
       </p>
     </div>
   </a>
@@ -45,9 +43,8 @@ order: 2
     </div>
     <div class="project-card-body">
       <p class="project-card-desc">
-        Personalized spelling instruction for K–8 students with dialect-enhanced
-        phonics awareness — the first of its kind to tailor materials to speakers
-        of different dialects.
+        Personalized spelling instruction for K–8 students with dialect-aware
+        phonics awareness — made possible with personalized voiced synthesis.
       </p>
     </div>
   </a>
@@ -57,7 +54,7 @@ order: 2
     <div class="project-card-header">
       <span class="project-card-tag">NLP Tool · Completed</span>
       <div class="project-card-title">DetectErreur</div>
-      <div class="project-card-org">Université de Lorraine — M1 Project</div>
+      <div class="project-card-org">University of Lorraine — M1 Project</div>
       <svg class="project-card-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
         <path d="M7 17L17 7M17 7H7M17 7v10"/>
       </svg>
@@ -65,8 +62,8 @@ order: 2
     <div class="project-card-body">
       <p class="project-card-desc">
         A French writing assistant for L2 learners that detects errors, offers
-        corrections, and generates pedagogically relevant feedback via RAG with
-        Mistral NeMo 12B.
+        corrections, and generates pedagogically relevant feedback using symbolic AI
+        and machine-learning solutions.
       </p>
     </div>
   </a>

@@ -5,8 +5,6 @@ order: 4
 ---
 
 <h2 class="page-title">Contact Me</h2>
-<p class="page-subtitle">Get in Touch</p>
-
 
 <form class="contact-form reveal"
       action="https://formspree.io/f/myzkoqjr"
