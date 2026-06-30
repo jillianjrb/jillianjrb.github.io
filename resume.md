@@ -20,28 +20,25 @@ order: 3
 
   <!-- ── Header ── -->
   <div class="resume-header">
-    <h1 class="resume-name">Malik Rabb</h1>
-    <p class="resume-contact">New York, NY &nbsp;|&nbsp; 212-555-0149 &nbsp;|&nbsp; mrabb@email.com</p>
+    <h1 class="resume-name">Jillian Brown</h1>
   </div>
 
-  <!-- ── Summary ── -->
-  <section class="resume-section">
-    <h2 class="resume-section-title">Summary</h2>
-    <p class="resume-body">
-      Versatile Front-End Developer with 3+ years of experience designing, developing,
-      and managing complex e-commerce sites and internal frameworks. Specializes in
-      AngularJS and responsive design.
-    </p>
-  </section>
 
   <!-- ── Education ── -->
   <section class="resume-section">
     <h2 class="resume-section-title">Education</h2>
     <div class="resume-entry">
       <div class="resume-entry-header">
-        <span class="resume-entry-title">Riverside University</span>
+        <span class="resume-entry-title">Master of Science in Natural Language Processing</span>
       </div>
-      <p class="resume-entry-subtitle">Bachelor of Science in Computer Science</p>
+      <p class="resume-entry-subtitle">University of Lorraine &amp; University of Groningen</p>
+      <p class="resume-entry-subtitle"><em>Erasmus Mundus Language & Communication Technology Double Degree Program</p>
+    </div>
+        <div class="resume-entry">
+      <div class="resume-entry-header">
+        <span class="resume-entry-title">Bachelor of Arts in Global Studies &amp; Linguistics</span>
+      </div>
+      <p class="resume-entry-subtitle">University of South Carolina Honors College</p>
     </div>
   </section>
 
@@ -51,29 +48,29 @@ order: 3
 
     <div class="resume-entry">
       <div class="resume-entry-header">
-        <span class="resume-entry-title">Crane &amp; Jenkins</span>
-        <span class="resume-entry-date">Jul. 2022 – Current</span>
+        <span class="resume-entry-title"><strong>LORIA Laboratory</strong>, University of Lorraine</span>
+        <span class="resume-entry-date">Jan. 2026 - June 2026</span>
       </div>
-      <p class="resume-entry-subtitle">Front-End Developer</p>
+      <p class="resume-entry-subtitle">Research Assistant</p>
       <ul class="resume-list">
-        <li>Revamped UI and app interface for customer-facing e-commerce site with 200,000+ unique visitors per month</li>
-        <li>Designed and developed front-end for 20+ websites, using jQuery, AJAX, RequireJS, and Handlebars.js</li>
-        <li>Created custom AngularJS components for internal framework</li>
-        <li>Automated image optimization using Grunt and minified JS and CSS, reducing page load times by up to 30%</li>
+        <li>Designed three-stage experimental validation pipeline for evaluation of acoustic indicators of depression in speech through statistically and ML-based methods</li>
+        <li>Built a reproducible Python audio preprocessing pipeline integrating multiple third-party toolboxes (librosa, openSMILE, Praat), showcasing practical audio engineering skills for NLP application</li>
+        <li>Applied linear mixed-effects models in R to isolate confounding variables in speech feature data</li>
+        <li>Developed and critically interpreted a binary classifier for depression detection using cross-validated logistic regression, with attention to class imbalance, clinical constraints, and model limitations</li>
       </ul>
     </div>
 
     <div class="resume-entry">
       <div class="resume-entry-header">
-        <span class="resume-entry-title">Tradelot Technology</span>
-        <span class="resume-entry-date">Aug. 2020 – Jul. 2022</span>
+        <span class="resume-entry-title"><strong>Wordification</strong>, ScholasTech, LLC</span>
+        <span class="resume-entry-date">May 2024 - Present</span>
       </div>
       <p class="resume-entry-subtitle">Front-End Developer</p>
       <ul class="resume-list">
-        <li>Translated design team's UX wireframes and mockups into responsive, interactive features using HTML/CSS and JavaScript</li>
-        <li>Worked with agile team to migrate legacy company website to AngularJS, Sass, HTML5, and Drupal</li>
-        <li>Created HTML email templates that improved email CTR rates by ~25%</li>
-        <li>Designed and developed GUI for applications and modules using JavaScript</li>
+        <li>Engineered automated tools to transform external linguistic data into structured inputs, increasing data processing efficiency for core software systems.</li>
+        <li>Developed scalable full-stack features using Redwood.js and React.js, ensuring high-performance integration between frontend UI and backend services.</li>
+        <li>Optimized relational database schemas and SQL queries, reducing data retrieval latency and improving the accuracy of real-time reporting.</li>
+        <li>Cross-collaborated with educators and engineers to bridge the gap between academic theory and technical implementation, delivering user-centric pedagogical tools.</li>
       </ul>
     </div>
 
@@ -81,11 +78,11 @@ order: 3
 
   <!-- ── Skills ── -->
   <section class="resume-section">
-    <h2 class="resume-section-title">Skills &amp; Achievements</h2>
+    <h2 class="resume-section-title">Essential Skills</h2>
     <ul class="resume-list">
-      <li>Won 1st place (out of 50+) at TradeLot's annual hackathon</li>
-      <li>Expert in responsive, mobile-first development</li>
-      <li>JavaScript (jQuery, AngularJS, React, Bootstrap), HTML/CSS, Git, Mocha, Jasmine</li>
+      <li><strong>Programming & Web Development</strong>: Python, R, JavaScript, CSS/HTML</li>
+      <li><strong>Tools & Frameworks</strong>: SQL, React, Git, PyTorch, Redwood.js, Audacity, Praat</li>
+      <li><strong>Skills</strong>: Statistical and ML Model Evaluations, Model Fine-Tuning, App Development, Retrieval Augmented Generation, Web Scraping, Prompt Engineering, Large Data Sets</li>
     </ul>
   </section>
 
