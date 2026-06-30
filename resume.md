@@ -6,7 +6,7 @@ order: 3
 
 <div class="resume-actions">
   <h2 class="page-title">Resume/CV</h2>
-  <a href="{{ site.baseurl }}/Resume_2101.2026.pdf"
+  <a href="{{ site.baseurl }}/Resume_06_2026.pdf"
      download
      class="hero-cta">
     Download PDF
