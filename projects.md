@@ -179,10 +179,10 @@ order: 2
   <hr class="divider" />
 
   <p>
-    As part of a team of seven, I contributed to the development of DetectErreur, an <strong>NLP-powered grammatical error detection and correction</strong> tool for French language learners. Working across the full development pipeline, I helped design and implement a <strong>hybrid system</strong> combining <strong>rule-based error detection</strong>, third-party Python grammar <strong>libraries</strong>, and a prompted <strong>small language model (Mistral NeMo 12B)</strong> to generate pedagogically meaningful feedback.
+    For a semester project, I worked on the development of DetectErreur, an <strong>NLP-powered grammatical error detection and correction</strong> tool for French language learners. Working across the full development pipeline, I helped design and implement a <strong>hybrid system</strong> combining <strong>rule-based error detection</strong>, existing Python grammar <strong>libraries</strong>, and a prompted <strong>small language model (Mistral NeMo 12B)</strong> to generate pedagogically meaningful feedback.
   </p>
   <p>
-    Throughout the project, I collaborated across technical and linguistic expertise, bridging the gap between computational implementation and second-language acquisition theory. This required iterative <strong>prompt engineering</strong>, implementation and evaluation of <strong>Retrieval-Augmented Generation (RAG)</strong> methods, and honest assessment of the tool's current limitations — skills central to responsible, user-centered AI development.
+    This project was a great experience in learning to collaborate with classmates of various technical and linguistic backgrounds. This required building a mastery of <strong>prompt engineering</strong> and publically available small language models, implementation and evaluation of <strong>Retrieval-Augmented Generation (RAG)</strong> methods, and assessment of the tool's limitations at the time of the project deadline — skills central to responsible, user-centered AI development.
   </p>
 
   <img src="{{ site.baseurl }}/images/detecterreur_attempt.png"
