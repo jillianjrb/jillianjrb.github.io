@@ -609,6 +609,149 @@ a{
 }
 
 /* ============================================================
+   RESUME 2
+   ============================================================ */
+
+.resume-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.resume-actions .page-title {
+  margin-bottom: 0;
+}
+
+.resume {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 2.5rem 3rem;
+}
+
+/* ── Resume header ── */
+.resume-header {
+  margin-bottom: 1.75rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 2px solid var(--forest);
+}
+
+.resume-name {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-weight: 600;
+  color: var(--forest);
+  margin-bottom: 0.35rem;
+}
+
+.resume-contact {
+  font-size: 0.85rem;
+  color: var(--ink-muted);
+  margin: 0;
+}
+
+/* ── Sections ── */
+.resume-section {
+  margin-bottom: 1.75rem;
+  padding-bottom: 1.75rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.resume-section:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.resume-section-title {
+  font-family: var(--font-display);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--sage-dark);
+  margin-bottom: 1rem;
+  margin-top: 0;
+}
+
+/* ── Entries ── */
+.resume-entry {
+  margin-bottom: 1.25rem;
+}
+
+.resume-entry:last-child {
+  margin-bottom: 0;
+}
+
+.resume-entry-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.2rem;
+}
+
+.resume-entry-title {
+  font-size: 0.97rem;
+  font-weight: 500;
+  color: var(--ink);
+}
+
+.resume-entry-date {
+  font-size: 0.78rem;
+  color: var(--ink-muted);
+  white-space: nowrap;
+}
+
+.resume-entry-subtitle {
+  font-size: 0.85rem;
+  color: var(--sage-dark);
+  font-style: italic;
+  margin-bottom: 0.6rem;
+}
+
+.resume-body {
+  font-size: 0.9rem;
+  color: var(--ink);
+  line-height: 1.7;
+  margin: 0;
+}
+
+/* ── Bullet lists ── */
+.resume-list {
+  margin: 0;
+  padding-left: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.resume-list li {
+  font-size: 0.88rem;
+  color: var(--ink);
+  line-height: 1.65;
+}
+
+/* ── Hyperlinks within resume (for future use) ── */
+.resume a {
+  color: var(--sage-dark);
+  text-decoration: underline;
+  text-decoration-color: var(--sage-light);
+  text-underline-offset: 3px;
+  font-weight: 500;
+  transition: color 0.2s, text-decoration-color 0.2s;
+}
+
+.resume a:hover {
+  color: var(--forest);
+  text-decoration-color: var(--sage);
+}
+
+/* ============================================================
    CONTACT FORM
    ============================================================ */
 .contact-intro {
