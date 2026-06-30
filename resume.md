@@ -81,15 +81,15 @@ order: 3
     <div class="resume-entry">
       <div class="resume-entry-header">Programming & Web Development</div>
         <ul class="resume-list">
-          Python, R, JavaScript, CSS/HTML
+          <li>Python, R, JavaScript, CSS/HTML</li>
         </ul>
       <div class="resume-entry-header">Tools & Frameworks</div>
         <ul class="resume-list">
-          SQL, React, Git, PyTorch, Redwood.js, Audacity, Praat
+          <li>SQL, React, Git, PyTorch, Redwood.js, Audacity, Praat</li>
         </ul>
       <div class="resume-entry-header">Skills</div>
         <ul class="resume-list">
-          Statistical and ML Model Evaluations, Model Fine-Tuning, App Development, Retrieval Augmented Generation, Web Scraping, Prompt Engineering, Large Data Sets
+          <li>Statistical and ML Model Evaluations, Model Fine-Tuning, App Development, Retrieval Augmented Generation, Web Scraping, Prompt Engineering, Large Data Sets</li>
         </ul>
     </div>
   </section>
