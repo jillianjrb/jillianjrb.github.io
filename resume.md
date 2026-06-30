@@ -79,15 +79,15 @@ order: 3
   <section class="resume-section">
     <h2 class="resume-section-title">Essential Skills</h2>
     <div class="resume-entry">
-      <div class="resume-entry-header">Programming & Web Development</div>
+      <div class="resume-entry-header"><strong>Programming & Web Development</strong></div>
         <ul class="resume-list">
           <li>Python, R, JavaScript, CSS/HTML</li>
         </ul>
-      <div class="resume-entry-header">Tools & Frameworks</div>
+      <div class="resume-entry-header"><strong>Tools & Frameworks</strong></div>
         <ul class="resume-list">
           <li>SQL, React, Git, PyTorch, Redwood.js, Audacity, Praat</li>
         </ul>
-      <div class="resume-entry-header">Skills</div>
+      <div class="resume-entry-header"><strong>Skills</strong></div>
         <ul class="resume-list">
           <li>Statistical and ML Model Evaluations, Model Fine-Tuning, App Development, Retrieval Augmented Generation, Web Scraping, Prompt Engineering, Large Data Sets</li>
         </ul>
