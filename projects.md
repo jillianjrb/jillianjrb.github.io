@@ -149,7 +149,7 @@ order: 2
     Through this project, I have had the privilege of speaking with several educators and administrators about the state of reading and writing education in the classrooms as well as test out the current softwares made available to them.  In my research, I have observed that current applications of voice processing in <strong>computer-assisted language learning</strong> in the United States are designed to enforce a standardized American English pronunciation--with no awareness of regional accents or lenience to natural speech behavior such as pauses and repetitions of words.  What matters most to the education of students is simple: building the skills for a lifetime of reading and writing.  
   </p>
   <p>
-    The most exciting part of my work at Wordification thus far is considering applying <strong>synthetic voice technology</strong> to allow teachers to craft more personalized and linguistically aware online lessons for their students.  Many common spelling errors in young students arise from the incorrect application of spelling conventions on different productions of speech (<em>How can students learn to spell by sounding out "pin" and "pen" or "sit" and "seat" if the speaker's native accent pronounces these the same way?</em>).  Dialectally aware education will allow educators to customize the students' activities with local accents and voices through the <strong>voice cloning<</strong> of a diverse group of voice actors to implement lessons that target these specific common phonic errors and personalize students' lessons with respect to their most frequent errors.
+    The most exciting part of my work at Wordification thus far is considering applying <strong>synthetic voice technology</strong> to allow teachers to craft more personalized and linguistically aware online lessons for their students.  Many common spelling errors in young students arise from the incorrect application of spelling conventions on different productions of speech (<em>How can students learn to spell by sounding out "pin" and "pen" or "sit" and "seat" if the speaker's native accent pronounces these the same way?</em>).  Dialectally aware education will allow educators to customize the students' activities with local accents and voices through the <strong>voice cloning</strong> of a diverse group of voice actors to implement lessons that target these specific common phonic errors and personalize students' lessons with respect to their most frequent errors.
   </p>
 
   <a href="https://wordification.scholastechnology.com/"
@@ -163,8 +163,8 @@ order: 2
 
   <h3>Key areas</h3>
   <p>
-      <em>Synthetic voice / TTS for education &nbsp;·&nbsp; Voice cloning &nbsp;·&nbsp; Dialect-aware speech processing &nbsp;·&nbsp; Synthetic voice / TTS for education &nbsp;·&nbsp; Personalized learning systems &nbsp;·&nbsp; Web design &nbsp;·&nbsp; Game development</em>
-    </p>
+      <em>Synthetic voice / TTS for education &nbsp;·&nbsp; Voice cloning &nbsp;·&nbsp; Dialect-aware speech processing &nbsp;·&nbsp; Personalized learning systems &nbsp;·&nbsp; Web design &nbsp;·&nbsp; Game development</em>
+  </p>
 
 </div>
 
@@ -175,30 +175,25 @@ order: 2
   </a>
 
   <h2 class="page-title">DetectErreur</h2>
-  <p class="page-subtitle">Université de Lorraine — Master 1, Semester 1 Project &nbsp;·&nbsp; Completed</p>
+  <p class="page-subtitle">University of Lorraine — Master 1, Semester 1 Project &nbsp;·&nbsp; Completed</p>
   <hr class="divider" />
 
   <p>
-    DetectErreur is a digital tool designed to assist <strong>learners of French
-    as a second language</strong>. By encoding the rules of the French language in
-    Python alongside machine learning methods, the tool detects writing errors,
-    offers corrections, and provides pedagogically relevant feedback.
+    As part of a team of seven, I contributed to the development of DetectErreur, an <strong>NLP-powered grammatical error detection and correction</strong> tool for French language learners. Working across the full development pipeline, I helped design and implement a <strong>hybrid system</strong> combining <strong>rule-based error detection</strong>, third-party Python grammar <strong>libraries</strong>, and a prompted <strong>small language model (Mistral NeMo 12B)</strong> to generate pedagogically meaningful feedback.
   </p>
   <p>
-    It uses <strong>Retrieval Augmented Generation (RAG)</strong> with
-    <strong>Mistral NeMo 12B</strong> to generate feedback that directly cites the
-    rules of French — giving learners explanations grounded in linguistic authority
-    rather than generic suggestions.
-  </p>
-  <p>
-    Developing DetectErreur gave me hands-on experience with RAG pipelines and the
-    challenges of building language tools that are both linguistically accurate and
-    pedagogically sound.
+    Throughout the project, I collaborated across technical and linguistic expertise, bridging the gap between computational implementation and second-language acquisition theory. This required iterative <strong>prompt engineering</strong>, implementation and evaluation of <strong>Retrieval-Augmented Generation (RAG)</strong> methods, and honest assessment of the tool's current limitations — skills central to responsible, user-centered AI development.
   </p>
 
   <img src="{{ site.baseurl }}/images/detecterreur_attempt.png"
        alt="DetectErreur interface screenshot"
        class="project-detail-img" />
+
+  <h3>Key areas</h3>
+  <p>
+      <em>Hybrid approaches to rammatical error detection and correction (GED/GEC) &nbsp;·&nbsp; Prompt engineering for small language models &nbsp;·&nbsp; Computer-assisted language learning (CALL) &nbsp;·&nbsp; Personalized learning systems &nbsp;·&nbsp; Model evaluation</em>
+  </p>
+
 </div>
 
 <script>
