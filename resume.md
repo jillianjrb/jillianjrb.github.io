@@ -32,8 +32,7 @@ order: 3
         <span class="resume-entry-title">Master of Science in Natural Language Processing</span>
       </div>
       <p class="resume-entry-subtitle">University of Lorraine &amp; University of Groningen</p>
-      <p class="resume-entry-subtitle"><em>Erasmus Mundus Language & Communication Technology Double Degree Program</p>
-    </div>
+      <p class="resume-entry-subtitle"><Erasmus Mundus Language & Communication Technology Double Degree Program</p></div>
         <div class="resume-entry">
       <div class="resume-entry-header">
         <span class="resume-entry-title">Bachelor of Arts in Global Studies &amp; Linguistics</span>
@@ -80,9 +79,9 @@ order: 3
   <section class="resume-section">
     <h2 class="resume-section-title">Essential Skills</h2>
     <ul class="resume-list">
-      <li><strong>Programming & Web Development</strong>: Python, R, JavaScript, CSS/HTML</li>
-      <li><strong>Tools & Frameworks</strong>: SQL, React, Git, PyTorch, Redwood.js, Audacity, Praat</li>
-      <li><strong>Skills</strong>: Statistical and ML Model Evaluations, Model Fine-Tuning, App Development, Retrieval Augmented Generation, Web Scraping, Prompt Engineering, Large Data Sets</li>
+      <strong>Programming & Web Development</strong>: Python, R, JavaScript, CSS/HTML
+      <strong>Tools & Frameworks</strong>: SQL, React, Git, PyTorch, Redwood.js, Audacity, Praat
+      strong>Skills</strong>: Statistical and ML Model Evaluations, Model Fine-Tuning, App Development, Retrieval Augmented Generation, Web Scraping, Prompt Engineering, Large Data Sets
     </ul>
   </section>
 
