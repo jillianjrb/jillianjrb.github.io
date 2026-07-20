@@ -8,7 +8,7 @@ order: 4
 
 <div class="contact-wrap">
 <form class="contact-form reveal"
-      action="https://formspree.io/f/myzkoqjr"
+      action="https://formspree.io/f/mjggkylk"
       method="POST">
 
   <div class="form-group">
