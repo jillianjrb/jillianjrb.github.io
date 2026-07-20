@@ -49,7 +49,24 @@ order: 2
     </div>
   </a>
 
-  <!-- ── Card 3: DetectErreur ── -->
+  <!-- ── Card 3: Handwriting Project ── -->
+  <a href="#project-handwriting" class="project-card reveal" id="card-handwriting" onclick="openProject('handwriting'); return false;">
+    <div class="project-card-header">
+      <span class="project-card-tag">Computer Vision · WIP</span>
+      <div class="project-card-title">Handwriting Transcription & Authorship Verification</div>
+      <div class="project-card-org">Personal Project</div>
+      <svg class="project-card-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M7 17L17 7M17 7H7M17 7v10"/>
+      </svg>
+    </div>
+    <div class="project-card-body">
+      <p class="project-card-desc">
+        Computer vision model fine-tuning & evaluation for the purposes of transcribing and identifying my own handwriting.  Personal project for computer vision development.
+      </p>
+    </div>
+  </a>
+
+  <!-- ── Card 4: DetectErreur ── -->
   <a href="#project-detecterreur" class="project-card reveal" id="card-detecterreur" onclick="openProject('detecterreur'); return false;">
     <div class="project-card-header">
       <span class="project-card-tag">NLP Tool · Completed</span>
@@ -166,6 +183,33 @@ order: 2
       <em>Synthetic voice / TTS for education &nbsp;·&nbsp; Voice cloning &nbsp;·&nbsp; Dialect-aware speech processing &nbsp;·&nbsp; Personalized learning systems &nbsp;·&nbsp; Web design &nbsp;·&nbsp; Game development</em>
   </p>
 
+</div>
+
+
+<div id="project-loria" class="project-detail" style="display:none;">
+  <a href="#" class="project-detail-back" onclick="closeProject(); return false;">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 12H5M12 5l-7 7 7 7"/></svg>
+    Back to all projects
+  </a>
+
+  <h2 class="page-title">Handwriting Transcription & Authorship Verification Model</h2>
+  <p class="page-subtitle">Personal Project &nbsp;·&nbsp; In Progress</p>
+  <hr class="divider" />
+
+  <p>
+    In my free time, I am building a project for the purposes of handwriting transcription and authorship verification, with my own handwriting as a reference corpus.  My motivation for this project stemmed from my interests in linguistic- and machine learning-based approaches to forensic investigation. 
+  </p>
+  <p>
+   This project will involve two pieces: (1) a fine-tuned TrOCR model supplemented with samples of my own handwriting and their respective transcriptions, and (2) a model designed to predict a line sample of handwritten text to determine the likelihood of the text belonging to the target author.  Thorough documentation and statistical evaluations of this models are central to the project, so I am also working on a detailed report of my work and my findings.
+  </p>
+  <p>
+   If you are interested in learning more about my work on this project, or have any insight to consider as I progress, feel free to contact me!  Stay tuned to see wehre this project goes.
+  </p>
+
+  <h3>Key areas</h3>
+  <p>
+    <em>Computer Vision &nbsp;·&nbsp; Handwritten Text Recognition (HTR) &nbsp;·&nbsp; Authorship Attribution/Verification &nbsp;·&nbsp; Model fine-tuning &nbsp;·&nbsp; Statistical evaluation of models</em>
+  </p>
 </div>
 
 <div id="project-detecterreur" class="project-detail" style="display:none;">
