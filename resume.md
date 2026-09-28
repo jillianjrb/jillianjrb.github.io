@@ -6,7 +6,7 @@ order: 3
 
 <div class="resume-actions">
   <h2 class="page-title">Resume/CV</h2>
-  <a href="{{ site.baseurl }}/Resume_06_2026.pdf"
+  <a href="{{ site.baseurl }}/Resume_09_22_2026.pdf"
      download
      class="hero-cta">
     Download PDF
@@ -44,6 +44,19 @@ order: 3
   <!-- ── Experience ── -->
   <section class="resume-section">
     <h2 class="resume-section-title">Experience</h2>
+
+
+    <div class="resume-entry">
+      <div class="resume-entry-header">
+        <span class="resume-entry-title"><strong>Low Saxon Dialect ASR at SpeechLab</strong>, University of Groningen</span>
+        <span class="resume-entry-date">Sept. 2026 - Present</span>
+      </div>
+      <p class="resume-entry-subtitle">Research Assistant</p>
+      <ul class="resume-list">
+        <li>Designing a transfer-learning evaluation framework to compare fine-tuning strategies for wav2vec2 and Whisper — single-dialect, related-dialect pooling, and high-resource cross-lingual transfer — to identify which training scaffold best supports low-resource dialectal ASR</li>
+        <li>Developing a multi-level framework for quantifying dialectal relationships (embedding similarity, phonetic representations, unsupervised clustering) to guide data selection and model scaffolding decisions</li>
+      </ul>
+    </div>
 
     <div class="resume-entry">
       <div class="resume-entry-header">

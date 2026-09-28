@@ -12,6 +12,22 @@ order: 2
 
 <div class="projects-grid">
 
+  <a href="#project-lsasr" class="project-card reveal" id="card-handwriting" onclick="openProject('lsasr'); return false;">
+    <div class="project-card-header">
+      <span class="project-card-tag">Speech Recognition · In Progress</span>
+      <div class="project-card-title">Low Saxon Dialect ASR</div>
+      <div class="project-card-org">Speech Lab, University of Groningen</div>
+      <svg class="project-card-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M7 17L17 7M17 7H7M17 7v10"/>
+      </svg>
+    </div>
+    <div class="project-card-body">
+      <p class="project-card-desc">
+        Designing and evaluating automatic speech recognition (ASR) models for Low Saxon Dutch dialects.
+      </p>
+    </div>
+  </a>
+
   <!-- ── Card 1: LORIA ── -->
   <a href="#project-loria" class="project-card reveal" id="card-loria" onclick="openProject('loria'); return false;">
     <div class="project-card-header">
@@ -90,6 +106,23 @@ order: 2
 <!-- ══════════════════════════════════════════════
      PROJECT DETAIL PANELS (hidden by default)
      ══════════════════════════════════════════════ -->
+
+
+<div id="project-lsasr" class="project-detail" style="display:none;">
+  <a href="#" class="project-detail-back" onclick="closeProject(); return false;">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 12H5M12 5l-7 7 7 7"/></svg>
+    Back to all projects
+  </a>
+
+  <h2 class="page-title">Low Saxon Dialect Automatic Speech Recognition</h2>
+  <p class="page-subtitle">SpeechLab &amp; University of Groningen</p>
+  <hr class="divider" />
+
+  <p>
+    Under construction!  Come back soon!
+  </p>
+
+</div>
 
 <div id="project-loria" class="project-detail" style="display:none;">
   <a href="#" class="project-detail-back" onclick="closeProject(); return false;">
